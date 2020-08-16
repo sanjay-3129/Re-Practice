@@ -1,0 +1,5 @@
+#rules
+#this sign for comment
+# if use *.txt --> all files with .txt will note be commited
+
+secrets.txt
